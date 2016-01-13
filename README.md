@@ -56,3 +56,10 @@ repository, so that the Perl 6 Community can address it.
         minority groups, persons with disabilities
     * Resolving issues with abusive behaviour from other members of the
         community
+* **Being a Perl 6 Programmer**
+    * Interacting with communities of other computer languages
+    * Finding a job that involves the use of Perl 6
+    * Spreading the word about Perl 6
+    * Obtaining Perl 6 promotional materials (a well-written "sales pitch",
+	printable brochures, etc.)
+    * Obtaining Perl 6 merchandise (shirts, mugs, pens with Perl 6 logo, etc.)
