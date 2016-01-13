@@ -8,7 +8,7 @@ repository is to help identify and address any deficiencies and issues in that
 experience. Creation of an Issue on this repository is aimed to be part of
 that process.
 
-When encountering a Perl 6 user who seems to be frustraited by any part of the
+When encountering a Perl 6 user who seems to be frustrated by any part of the
 Perl 6 experience, it is suggested they get directed to open an Issue on this
 repository, so that the Perl 6 Community can address it.
 
