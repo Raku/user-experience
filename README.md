@@ -19,7 +19,7 @@ repository, so that the Perl 6 Community can address it.
     * Hearing about Perl 6 from conferences and other events
     * Hearing about Perl 6 on social media, blogs, and popular news sites
     * Hearing about Perl 6 by word-of-mouth
-* [**Getting Perl 6**](Getting-Perl6/README.md)
+* [**Getting Perl 6**](Getting-Perl6/)
     * Understanding the basic terms and differences
         (compiler vs. language, etc)
     * Choosing a compiler to install
