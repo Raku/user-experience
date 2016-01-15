@@ -30,8 +30,15 @@ repository, so that the Perl 6 Community can address it.
     * Installing a module
 * **Developing in Perl 6**
     * Developing a module
+        * Testing a module
     * Distributing a module
     * Distributing a Perl 6 program
+    * Maintaining a module or program
+        * Workflow for bumping your module's version
+        * Bitrot detection and dependent module version handling
+        * Checking for issues and PRs
+        * Sharing write access
+            * perl6 community modules
 * **Getting Help and Training**
     * Finding and accessing Perl 6 documentation
     * Finding and accessing documentation for a module
@@ -46,9 +53,18 @@ repository, so that the Perl 6 Community can address it.
 * **Contributing to Perl 6**
     * Finding out what work needs to be done to Perl 6 (docs, supporting
         websites, etc)
+        * open github issues
+        * WANTED modules list
     * Finding out what work needs to be done to a Perl 6 compiler
+        * open tickets at rt.perl.org
+        * github issues and PRs on rakudo, moarvm, nqp
+        * fudged tests in roast
     * Finding out whom to contact to obtain access permissions
         (e.g. commit bits)
+    * Setting up a development environment, writing and testing patches
+        [Rakudo](PatchDevel/Rakudo)
+    * Compiler PR workflow
+        [Rakudo](PatchSubmission/Rakudo)
     * Getting recognition
 * **Interacting with the Community**
     * Reaching other Perl 6 developers (for social chat and events)
