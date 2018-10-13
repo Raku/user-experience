@@ -12,18 +12,3 @@ operating system, the differences between compilers and Virtual Machines
 they're implemented on, the modules installed, etc.
 * Install a specific Perl 6 compiler with specific options. This is aimed at
 users who know what they want and who wish to obtain something more tailored.
-
-# GetPerl6.com Website
-
-GetPerl6.com has been registered (by Zoffix) and is expected to be the place
-that addresses the [stated goals](#goals). The website will have just a single
-goal:
-
----
-
-> Get a user to run a Perl 6 program they wrote
-
----
-
-All other objectives are the responsibility of other websites (such as
-perl6.org and its subdomains).
